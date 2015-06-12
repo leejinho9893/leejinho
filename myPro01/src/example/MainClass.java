@@ -10,5 +10,8 @@ public class MainClass {
 		
 		C c=new C();
 		System.out.println("3번째");
+		
+		D d=new D();
+		System.out.println("받은거 다시올리긔");
 	}
 }
